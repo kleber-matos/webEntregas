@@ -1,0 +1,17 @@
+@media screen and (max-width: 960px) {
+    .font-big {
+        font-size: 30px;
+    }
+    .font-p {
+        font-size: 15px;
+    }
+
+    .font-m {
+        font-size: 20px;
+    }
+    
+    .hide {
+        display: none;
+    }
+    
+}
